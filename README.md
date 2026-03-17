@@ -3,7 +3,7 @@
 This repository contains my Power BI work from Week 2 of the Data Technician programme.
 The project focuses on connecting to data sources, transforming data with Power Query, building visual reports, and creating dashboards using Power BI Desktop.
 
-## Skills Demonstrated
+## Skills Demonstra
 
 # ✔️ Getting & Transforming Data (Power Query)
 Importing data from multiple sources
