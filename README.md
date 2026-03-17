@@ -67,3 +67,5 @@ Dashboard creation features
 
 ## My Dashboard
 [Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiNmIwYzkyODMtMDNhNy00ODU2LWIyNTAtYTg2YjU1ODNlZDFlIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+
+[Link to My Report](https://app.powerbi.com/view?r=eyJrIjoiMzcxZmY0NTAtMzNkYS00MTVmLWE0OGUtODdkNjE0ZjkwOGRlIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
